@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-HR Cloud is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.hrcloud.com/
+HR Cloud provides an AI‑powered enterprise HR platform designed for frontline teams. It unifies onboarding, core HR, employee engagement, time‑off, performance management and payroll in a single cloud solution. The platform offers a mobile‑first experience, integrates with popular tools, and includes features such as Maya AI onboarding assistant, employee recognition, shift planning and robust reporting, aimed at improving workforce productivity and compliance.
+
+**Areas:** HR · SaaS · HRTech · Frontline · AI
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.hrcloud.com/)
+- [Pricing](https://www.hrcloud.com/workmates/pricing)
+- [Blog](https://www.hrcloud.com/blog)
+- [Terms of service](https://www.hrcloud.com/terms-of-service)
+- [Privacy policy](https://www.hrcloud.com/privacy-policy)
+- [GitHub](https://github.com/HRCloud)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/hr-cloud/](https://apis.io/providers/hr-cloud/).
